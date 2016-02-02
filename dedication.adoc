@@ -1,0 +1,4 @@
+[dedication]
+== Dedicatoria
+
+Dedicado a todos los que han colaborado en la creación de este libro

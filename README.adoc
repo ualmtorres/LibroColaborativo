@@ -1,0 +1,10 @@
+= Creación de un libro colaborativo
+
+Se trata de un libro en AsciiDoc que escribiremos de forma conjunta de la forma siguiente:
+
+* Disponemos de una Wiki donde están las (estas) normas de edición.
+* Todos los colaboradores del libro pueden hacer `push` sobre el repo del libro.
+* Cada colaborador editará únicamente el archivo que coincida con su nombre de usuario.
+* Para evitar conflictos con los nombres de imagen, cada autor incluirá como prefijo en el nombre del archivo de la imagen el número del capítulo y el nombre de usuario que esté creando la imagen (p.e. `13-johndoe-river.png`)
+
+*Y recuerda: Keep Calm and Enjoy Git ;-P*

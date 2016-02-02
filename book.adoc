@@ -1,0 +1,40 @@
+= Cómo hacer un libro de forma colaborativa
+Seminario DI
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 2
+:numbered:
+
+////
+Organize your book chapter by chapter
+////
+
+include::preface.adoc[]
+
+include::dedication.adoc[]
+
+include::01-jbaron.adoc[]
+
+include::02-jjcanada.adoc[]
+
+include::03-irene.adoc[]
+
+include::04-imaguila.adoc[]
+
+include::05-mdurban.adoc[]
+
+include::06-liribarn.adoc[]
+
+include::07-diosdado.adoc[]
+
+include::08-jaberme.adoc[]
+
+include::09-acorral.adoc[]
+
+include::10-rguirado.adoc[]
+
+include::11-leo.adoc[]
+
+include::12-vruiz.adoc[]
